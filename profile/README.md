@@ -24,6 +24,7 @@
 - 노트 Template 위치: .github/profile/noteTemplate/
 
 <br>
+
 # ✌🏻 스터디는 이렇게 진행하고 싶어요
 
 1. 수업 동안 열심히 노트를 필기해주세요 (쉬는 시간도 활용 가능)
